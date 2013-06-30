@@ -1,0 +1,16 @@
+From Top-->Bottom:
+
+Orange:
+	#EB7F00
+Pale:
+	#F2E5C7
+Olive:
+	#A7BD5B
+Red:
+	#DC574E
+Soft Green:
+	#8DC7B8
+Orange Salmon:
+	#ED9355
+Midnight:
+	#1F2751
